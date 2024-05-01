@@ -1,1 +1,2 @@
 FileA
+This is a latest change
